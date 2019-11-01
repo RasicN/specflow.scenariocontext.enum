@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specflow.ScenarioContext.Enum", "Specflow.ScenarioContext.Enum.csproj", "{483C0579-9B4C-4633-8DCD-BA72537DF958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483C0579-9B4C-4633-8DCD-BA72537DF958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483C0579-9B4C-4633-8DCD-BA72537DF958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483C0579-9B4C-4633-8DCD-BA72537DF958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483C0579-9B4C-4633-8DCD-BA72537DF958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB66E9EC-915D-4F40-824A-7E2718B26946}
+	EndGlobalSection
+EndGlobal

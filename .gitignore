@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Specflow.ScenarioContext.Enum/.vs/Specflow.ScenarioContext.Enum/v16/Server/sqlite3
+/Specflow.ScenarioContext.Enum/obj
+/Specflow.ScenarioContext.Enum/bin/Debug/netstandard2.0
