@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Extends the ScenarioContext to allow for enums as keys instead of strings</Description>
+    <PackageProjectUrl>https://github.com/RasicN/specflow.scenariocontext.enum</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/RasicN/specflow.scenariocontext.enum</RepositoryUrl>
+    <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <Authors>Joe Cisar</Authors>
+    <Product />
+    <PackageId>SpecflowExtensions.ScenarioContext.Enum</PackageId>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
